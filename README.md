@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: Nguyen Tan Dung
-* Student ID: BI10-041
+* Student ID: Bi10-041
 
